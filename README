@@ -10,4 +10,4 @@ The functions have been tested using the following software versions:
   DEseq2  v1.32.0
   Seurat  4.0.2
 
-The code uses (muscat)[https://www.nature.com/articles/s41467-020-19894-4] to perform the pseudo-bulk aggregation.
+The code uses muscat (https://www.nature.com/articles/s41467-020-19894-4) to perform the pseudo-bulk aggregation.
