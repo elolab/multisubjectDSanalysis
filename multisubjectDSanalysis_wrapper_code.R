@@ -1,4 +1,4 @@
-# MAST_RE gives error for lowly expressed genes, which might cause the program to fail. This filters them out.
+# MAST_RE gives an error for lowly expressed genes, which might cause the program to fail. This filters them out.
 RunMAST <- function(raw.data,normalized.data,group,individual=NULL)
 {
     library(MAST)
@@ -51,7 +51,7 @@ RunMAST <- function(raw.data,normalized.data,group,individual=NULL)
     
 }
 
-# MAST_RE gives error for lowly expressed genes, which might cause the program to fail. This does not filter them out.
+# MAST_RE gives an error for lowly expressed genes, which might cause the program to fail. This does not filter them out.
 RunMAST_no_filtering <- function(raw.data,normalized.data,group,individual=NULL)
 {
     library(MAST)
