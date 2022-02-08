@@ -1,1 +1,13 @@
+The functions have been tested using the following software versions:
 
+  R       4.10
+  nebula  v1.1.7
+  muscat  v1.6.0
+  MAST    v1.18.0
+  ROTS    v1.20.0
+  Limma   v3.48.0
+  edgeR   v3.34.0
+  DEseq2  v1.32.0
+  Seurat  4.0.2
+
+The code uses (muscat)[https://www.nature.com/articles/s41467-020-19894-4] to perform the pseudo-bulk aggregation.
