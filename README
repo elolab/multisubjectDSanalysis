@@ -2,7 +2,7 @@ The repository includes R functions for 18 differential state (DS) analysis meth
 
 The functions have been tested using the following software versions:
 
-  R       4.1.0
+  R       v4.1.0
   nebula  v1.1.7
   muscat  v1.6.0
   MAST    v1.18.0
@@ -10,7 +10,7 @@ The functions have been tested using the following software versions:
   Limma   v3.48.0
   edgeR   v3.34.0
   DEseq2  v1.32.0
-  Seurat  4.0.2
+  Seurat  v4.0.2
 
 The code uses muscat (https://www.nature.com/articles/s41467-020-19894-4) to perform the pseudo-bulk aggregation. The sum aggregation approach is more preferable to the mean aggregation.
 
