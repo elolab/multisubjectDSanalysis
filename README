@@ -19,6 +19,6 @@ The code uses muscat (https://www.nature.com/articles/s41467-020-19894-4) to per
 
 The code for MAST_RE has been adapted from https://github.com/kdzimm/PseudoreplicationPaper  
 
-Update (Oct 3, 2022): We have added a useful script for visualizing expression values of pseudobulk-aggregated data as a beeswarm plot (viz_pseudobulk_as_beeswarm.R). The script will also generate the pseudo-bulk data from data stored in a Seurat object.
+Update (Oct 3, 2022): We added a useful script for visualizing expression values of pseudobulk-aggregated data as a beeswarm plot (viz_pseudobulk_as_beeswarm.R). The script will also generate the pseudo-bulk data from data stored in a Seurat object.
 
-Update (Oct 3, 2022): We have added a useful script that shows an example on how to run pseudo-bulk DS analysis with ROTS (sum aggregation) for a Seurat object (example_pseudobulk_analysis.R). 
+Update (Oct 3, 2022): We added a useful script that shows an example on how to run pseudo-bulk DS analysis with ROTS (sum aggregation) for a Seurat object (example_pseudobulk_analysis.R). 
