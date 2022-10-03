@@ -22,3 +22,9 @@ The code for MAST_RE has been adapted from https://github.com/kdzimm/Pseudorepli
 Update (Oct 3, 2022): We added a useful script for visualizing expression values of pseudobulk-aggregated data as a beeswarm plot (viz_pseudobulk_as_beeswarm.R). The script will also generate the pseudo-bulk data from data stored in a Seurat object.
 
 Update (Oct 3, 2022): We added a useful script that shows an example on how to run pseudo-bulk DS analysis with ROTS (sum aggregation) for a Seurat object (example_pseudobulk_analysis.R). 
+
+
+
+To cite our work:
+
+Sini Junttila, Johannes Smolander, Laura L Elo, Benchmarking methods for detecting differential states between conditions from multi-subject single-cell RNA-seq data, Briefings in Bioinformatics, Volume 23, Issue 5, September 2022, bbac286, https://doi.org/10.1093/bib/bbac286 
