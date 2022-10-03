@@ -51,9 +51,6 @@ VizBeeswarm <- function(pb.norm,gene,group,individual)
   
 }
 
-pb <- CreatePseudoBulkData(raw.data = raw.data,normalized.data = normalized.data, 
-                             sample.id = individual,fun = sum.or.mean)
-
 load("seurat_object.RData")
 
 # replace names with the ones you have in your Seurat object
