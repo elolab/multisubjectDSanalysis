@@ -1,6 +1,6 @@
 The repository includes R functions for 18 differential state (DS) analysis methods (multisubjectDSanalysis_wrapper_code.R).
 
-The repository also includes and benchmarking codes for reproducing all analyses
+The repository also includes benchmarking codes for reproducing all analyses
 in the "Benchmarking methods for detecting differential states between conditions from multi-subject single-cell RNA-seq data" paper. 
 
 The functions have been tested using the following software versions:
