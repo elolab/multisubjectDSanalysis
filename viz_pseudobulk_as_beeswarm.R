@@ -67,7 +67,7 @@ pb <- CreatePseudoBulkData(raw.data = raw_data[,clustering==0],
                            normalized.data = normalized_data[,clustering==0],
                            sample.id = individual[clustering==0],
                            fun = "sum")
-# Normalize it with edgeR
+# Normalize it with edgeR (ONLY NEEDED FOR SUM AGGREGATION)
 
 pb_norm <- NormalizePseudobulk(pb)
 
